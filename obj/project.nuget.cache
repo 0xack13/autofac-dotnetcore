@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GRibPbEsvnx7LxtPUJkqpfB8NWZLs8plxbK4GF7erUicPTVne35YvZd9ce8TMwDuvKYwqcftRyMuQUZ3Ni3oBw==",
+  "success": true,
+  "projectFilePath": "/mnt/c/Users/s0x/src/dotnetapps/consoleapps/consoleapps.csproj",
+  "expectedPackageFiles": [
+    "/home/s0x/.nuget/packages/autofac/5.0.0/autofac.5.0.0.nupkg.sha512",
+    "/home/s0x/.nuget/packages/autofac.extensions.dependencyinjection/6.0.0/autofac.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "/home/s0x/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/2.1.0/microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

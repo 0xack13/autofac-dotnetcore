@@ -1,0 +1,17 @@
+/mnt/c/Users/s0x/src/dotnetapps/consoleapps/bin/Debug/netcoreapp3.1/consoleapps
+/mnt/c/Users/s0x/src/dotnetapps/consoleapps/bin/Debug/netcoreapp3.1/consoleapps.deps.json
+/mnt/c/Users/s0x/src/dotnetapps/consoleapps/bin/Debug/netcoreapp3.1/consoleapps.runtimeconfig.json
+/mnt/c/Users/s0x/src/dotnetapps/consoleapps/bin/Debug/netcoreapp3.1/consoleapps.runtimeconfig.dev.json
+/mnt/c/Users/s0x/src/dotnetapps/consoleapps/bin/Debug/netcoreapp3.1/consoleapps.dll
+/mnt/c/Users/s0x/src/dotnetapps/consoleapps/bin/Debug/netcoreapp3.1/consoleapps.pdb
+/mnt/c/Users/s0x/src/dotnetapps/consoleapps/obj/Debug/netcoreapp3.1/consoleapps.csprojAssemblyReference.cache
+/mnt/c/Users/s0x/src/dotnetapps/consoleapps/obj/Debug/netcoreapp3.1/consoleapps.csproj.CoreCompileInputs.cache
+/mnt/c/Users/s0x/src/dotnetapps/consoleapps/obj/Debug/netcoreapp3.1/consoleapps.AssemblyInfoInputs.cache
+/mnt/c/Users/s0x/src/dotnetapps/consoleapps/obj/Debug/netcoreapp3.1/consoleapps.AssemblyInfo.cs
+/mnt/c/Users/s0x/src/dotnetapps/consoleapps/obj/Debug/netcoreapp3.1/consoleapps.dll
+/mnt/c/Users/s0x/src/dotnetapps/consoleapps/obj/Debug/netcoreapp3.1/consoleapps.pdb
+/mnt/c/Users/s0x/src/dotnetapps/consoleapps/obj/Debug/netcoreapp3.1/consoleapps.genruntimeconfig.cache
+/mnt/c/Users/s0x/src/dotnetapps/consoleapps/bin/Debug/netcoreapp3.1/Autofac.dll
+/mnt/c/Users/s0x/src/dotnetapps/consoleapps/bin/Debug/netcoreapp3.1/Autofac.Extensions.DependencyInjection.dll
+/mnt/c/Users/s0x/src/dotnetapps/consoleapps/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/mnt/c/Users/s0x/src/dotnetapps/consoleapps/obj/Debug/netcoreapp3.1/consoleapps.csproj.CopyComplete
